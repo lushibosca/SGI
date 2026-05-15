@@ -1,4 +1,4 @@
-const CACHE_NAME = 'MATERIALES-V83-cache';
+const CACHE_NAME = 'MATERIALES-v260515.1838-cache';
 const urlsToCache = [
   './',
   './index.html',
